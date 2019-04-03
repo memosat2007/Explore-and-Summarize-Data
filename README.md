@@ -3,6 +3,6 @@ In this exploration, I will investigate Red Wine dataset, which has 1599 observa
 
 The published result is at: http://rpubs.com/xiaoyuchen_uncc/458203
 
-This project is completed by language R.
+This project is completed by language R
 
 
